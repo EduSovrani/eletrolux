@@ -1,3 +1,13 @@
+/**
+* @file <question2.ino>
+* @brief <Arduino Source File>
+*
+* <Question 2 - Eletrolux - Knowledge Assessment>
+*
+* @author <Eduardo Falchetti Sovrani>
+*
+*/
+
 // ---------------------------------------
 // DEFINES
 // ---------------------------------------
